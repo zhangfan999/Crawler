@@ -1,0 +1,1 @@
+运行main主程序之前，请在mysqlConfig文件里对数据库进行配置。proxy_api_requestHeaders.txt对请求url的headers进行设置。
